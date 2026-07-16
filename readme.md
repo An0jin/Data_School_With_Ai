@@ -19,7 +19,7 @@
 </details>
 
 <details>
-<summary>▶ 초등 3~4학년: 데이터베이스(DB) 기초 및 데이터 시각화</summary>
+<summary>초등 3~4학년: 데이터베이스(DB) 기초 및 데이터 시각화</summary>
 
 * **전반부:** 데이터와 엑셀, 데이터베이스의 관계 이해 및 바이브 코딩 입문
 * **중반부:** DBGate 설치 및 SQLite 연동, 엑셀 데이터를 DB로 변환하고 조회하고 DB로 데이터 전처리 하기
@@ -28,7 +28,7 @@
 </details>
 
 <details>
-<summary>▶ 초등 5~6학년: 머신러닝(ML) 기초 및 예측 산출물</summary>
+<summary>초등 5~6학년: 머신러닝(ML) 기초 및 예측 산출물</summary>
 
 * **전반부:** 데이터와 LLM의 이해, Gemini 실습 및 파이썬 기반 바이브 코딩 입문
 * **중반부:** 교과 융합 ML 실습, 데이터 전처리 및 시각화 고도화
@@ -37,7 +37,7 @@
 </details>
 
 <details>
-<summary>▶ 중등~고등학생: 데이터 주도적 탐구 및 ML 완결형 파이프라인</summary>
+<summary>중등~고등학생: 데이터 주도적 탐구 및 ML 완결형 파이프라인</summary>
 
 * **전반부 (데이터 탐색 및 인프라 구축):** 공공데이터포털 등에서 탐구 주제에 맞는 **원시 데이터(CSV/Excel) 직접 탐색 및 다운로드**, SQLite DB 데이터 모델링 및 SQL 질의를 통한 데이터 추출·관리
 * **중반부 (머신러닝 및 과학적 분석):** 바이브 코딩 기반 파이썬 전처리 기법 마스터, Scikit-learn 회귀/분류 모델 알고리즘 분석 및 통계 시각화
@@ -47,14 +47,6 @@
 
 ---
 
-## 📂 저장소 구조 (Directory Structure)
-
-* [01_elementary_1-2_experience](./01_elementary_1-2_experience) — 초등 1~2학년 과정
-* [02_elementary_3-4_database](./02_elementary_3-4_database) — 초등 3~4학년 과정
-* [03_elementary_5-6_machine_learning](./03_elementary_5-6_machine_learning) — 초등 5~6학년 과정
-* [04_secondary_middle-high_fusion](./04_secondary_middle-high_fusion) — 중1~고3 통합 융합 과정
-
----
 
 ## 🔒 저작권 및 이용 제한 안내 (Copyright & License)
 
