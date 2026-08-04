@@ -1,0 +1,30 @@
+{
+    "mcpServers": {
+        "filesystem": {
+            "command": "npx",
+            "args": [
+                "-y",
+                "@modelcontextprotocol/server-filesystem",
+                "C:\\",
+                "D:\\"
+            ]
+        },
+        "word-document-server": {
+            "command": "uvx",
+            "args": [
+                "--from",
+                "office-word-mcp-server",
+                "word_mcp_server"
+            ]
+        },
+        "Canva": {
+            "type": "stdio",
+            "command": "npx",
+            "args": [
+                "-y",
+                "mcp-remote@latest",
+                "https://mcp.canva.com/mcp"
+            ]
+        }
+    }
+}
