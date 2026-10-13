@@ -1,1 +1,0 @@
-https://data.kma.go.kr/stcs/grnd/grndTaList.do?pgmNo=70
