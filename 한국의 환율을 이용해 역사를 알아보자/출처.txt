@@ -1,0 +1,2 @@
+환율 : https://www.index.go.kr/unify/idx-info.do?idxCd=4201
+대통령 임기 : https://pa.go.kr/online_contents/president/president01.jsp
